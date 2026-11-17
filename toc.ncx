@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head><meta name="dtb:uid" content="urn:uuid:12345"/></head>
+    <docTitle><text>Effect of Yoga on Stress</text></docTitle>
+    <navMap>
+        <navPoint id="nav1" playOrder="1">
+            <navLabel><text>Chapter 1 - Yoga</text></navLabel>
+            <content src="chap1.xhtml"/>
+        </navPoint>
+    </navMap>
+</ncx>
