@@ -1,0 +1,11 @@
+<article>
+    <front>
+        <article-title>Effect of Yoga on Stress</article-title>
+        <contrib><name><surname>Begam</surname></name></contrib>
+        <abstract><p>Yoga reduces stress and improves focus.</p></abstract>
+    </front>
+    <body>
+        <p>See <xref ref-type="fig" rid="fig-2">Figure 2</xref> for results.</p>
+        <fig id="fig-1"><caption><p>Yoga Results</p></caption></fig>
+    </body>
+</article>
